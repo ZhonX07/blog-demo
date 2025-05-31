@@ -1,10 +1,5 @@
 node_modules
 dist
-dist-ssr
 cache
 .temp
 .DS_Store
-*.local
-.vitepress/dist
-.vitepress/cache
-.vscode
